@@ -16,3 +16,17 @@ int main()
 	printf("\naverage of the %d integers = %f",n,average);
 	return 0;
 }
+ 
+ OUTPUT
+ enter the range of numbers(end limit):
+5
+
+ enter the elements one by one:
+1
+2
+3
+4
+5
+
+sum of the 5 integers = 15
+average of the 5 integers = 3.000000
