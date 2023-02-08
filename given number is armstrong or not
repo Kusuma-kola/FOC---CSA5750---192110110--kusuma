@@ -16,3 +16,7 @@ int main()
 	else
 	printf("%d is not an armstrong number.",num);
 	return 0;
+	 
+	 OUTPUT
+	 enter an integer: 216
+216 is not an armstrong number.
