@@ -13,3 +13,6 @@ int main()
 	printf("sum is = %d",sum);
 	return 0;
 }
+OUTPUT
+enter a number:456
+sum is = 15
